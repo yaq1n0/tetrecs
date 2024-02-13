@@ -1,0 +1,10 @@
+James:10000
+Mary:9000
+John:8000
+Patricia:7000
+Robert:6000
+Jennifer:5000
+Michael:4000
+Linda:3000
+William:2000
+Elizabeth:1000
